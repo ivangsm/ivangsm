@@ -1,16 +1,33 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Iván Salazar 👨‍💻
 
-<!--
-**ivangsm/ivangsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Code, chess and music 💗
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 C# | Python | Go | Elixir 
+* 🖇️ Dotnet | FastAPI | Phoenix
+* 🛢️ PostgreSQL | MariaDb 
+* :octocat: Git | Github | Gitlab
+* 🌐 Vue | React 
+* ☁ AWS | Azure | GCP | Oracle
+* 🖥️ Linux | FreeBSD
+* 📟 Raspberry PI | Arduino | NodeMCU
+
+## :octocat: GitHub stats:  
+<a href="https://github.com/ivangsm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangsm&langs_count=8" />
+</a>
+
+## 📫 Get in touch
+- 🌐 Website - [Website](https://ivansalazar.dev)
+- 📄 Blog - [Blog](https://blog.ivansalazar.dev)
+- Twitter - [@ivangsm_](https://twitter.com/ivangsm_)
+
+ or give some ♥ on [mail](mailto:me@ivansalazar.dev) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ivangsm/ivangsm)
+
