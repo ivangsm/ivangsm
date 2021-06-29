@@ -16,9 +16,7 @@ Here are a few things I've picked up along my learning journey.
 * 📟 Raspberry PI | Arduino | NodeMCU
 
 ## :octocat: GitHub stats:  
-<a href="https://github.com/ivangsm/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangsm&langs_count=10" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangsm&layout=compact)](https://github.com/ivangsm/github-readme-stats)
 
 ## 📫 Get in touch
 - 🌐 Website - [Website](https://ivansalazar.dev)
