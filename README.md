@@ -16,9 +16,9 @@ Here are a few things I've picked up along my learning journey.
     <tr>
         <td align="center" width="96">
             <a href="https://go.dev">
-                <img src="./img/golang.svg" width="48" height="48" alt="Golang" />
+                <img src="./img/golang.svg" width="48" height="48" alt="Go" />
             </a>
-            <br>Golang
+            <br>Go
         </td>
         <td align="center" width="96">
             <a href="https://www.python.org">
@@ -122,7 +122,7 @@ Here are a few things I've picked up along my learning journey.
             <a href="#">
                 <img src="./img/kubernets.svg" width="48" height="48" alt="K8s" />
             </a>
-            <br>Kubernets
+            <br>Kubernetes
         </td>
     </tr>
 </table>
@@ -142,6 +142,18 @@ Here are a few things I've picked up along my learning journey.
                 <img src="./img/mariadb.svg" width="48" height="48" alt="MariaDB" />
             </a>
             <br>MariaDB
+        </td>
+        <td align="center" width="96">
+            <a href="#">
+                <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
+            </a>
+            <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <a href="#">
+                <img src="./img/redis.svg" width="48" height="48" alt="Redis" />
+            </a>
+            <br>Redis
         </td>
     </tr>
 </table>
