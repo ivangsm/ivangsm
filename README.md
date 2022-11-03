@@ -187,7 +187,7 @@ Here are a few things I've picked up along my learning journey.
 - ✉️ [eMail](mailto:me@ivansalazar.dev)
 
 <div align="center">
-    <a href="https://twitter.com/ivangsm"><img alt="Arduino" src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=Twitter&logoColor=white"></a>
+    <a href="https://twitter.com/ivangsm_"><img alt="Arduino" src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=Twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ivangsm/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&logoColor=white"></a>
     <a href="https://gitlab.com/ivangsm"><img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-%23ffffff?logo=Gitlab&logoColor=white"></a>
 </div>
