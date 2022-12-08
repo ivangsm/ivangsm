@@ -183,7 +183,7 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 
 - 🌐 [Website](https://ivansalazar.dev)
-- 📄 [Blog](https://blog.ivansalazar.dev)
+- 📄 [Blog](https://ivansalazar.dev/blog)
 - ✉️ [eMail](mailto:me@ivansalazar.dev)
 
 <div align="center">
