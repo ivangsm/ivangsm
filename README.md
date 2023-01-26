@@ -177,8 +177,15 @@ Here are a few things I've picked up along my learning journey.
     </tr>
 </table>
 
-## :octocat: GitHub stats:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangsm&layout=compact)](https://github.com/ivangsm/github-readme-stats)
+## :octocat: GitHub stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangsm&layout=compact&theme=tokyonight&langs_count=8)
+
+---
+![mystreak](https://github-readme-streak-stats.herokuapp.com/?user=ivangsm&theme=tokyonight)
+
+---
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivangsm&theme=tokyonight) 
 
 ## 📫 Get in touch
 
