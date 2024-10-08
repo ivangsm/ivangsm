@@ -45,10 +45,10 @@ Here are a few things I've picked up along my learning journey.
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <a href="https://www.rust-lang.org/es">
-                <img src="./img/rust.svg" width="58" height="48" alt="Rust" />
+            <a href="https://www.ruby-lang.org">
+                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b36deabf-d603-4499-9c0e-10665a2e65ff/d5qwq2l-24456266-0589-4b8b-a947-9ea8250876c8.png/v1/fill/w_1024,h_890/ruby_by_sakatagintoki117_d5qwq2l-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODkwIiwicGF0aCI6IlwvZlwvYjM2ZGVhYmYtZDYwMy00NDk5LTljMGUtMTA2NjVhMmU2NWZmXC9kNXF3cTJsLTI0NDU2MjY2LTA1ODktNGI4Yi1hOTQ3LTllYTgyNTA4NzZjOC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IFQBwHnHl7HlKUBtZJKCT8mqSr8GUnTS4DJy5OaiSzQ" width="58" height="48" alt="Ruby" />
             </a>
-            <br>Rust
+            <br>Ruby
         </td>
     </tr>
 </table>
@@ -64,10 +64,10 @@ Here are a few things I've picked up along my learning journey.
             <br>.NET
         </td>
         <td align="center" width="96">
-            <a href="https://vuejs.org">
-                <img src="./img/vue.svg" width="48" height="48" alt="Vue" />
+            <a href="https://rubyonrails.org/">
+                <img src="https://www.adrenalina.es/wp-content/uploads/2020/04/desarrollador-ruby-on-rails.png" width="48" height="48" alt="Rails" />
             </a>
-            <br>Vue
+            <br>Rails
         </td>
         <td align="center" width="96">
             <a href="https://fastapi.tiangolo.com">
