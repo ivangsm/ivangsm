@@ -191,7 +191,7 @@ Here are a few things I've picked up along my learning journey.
 
 - 🌐 [Website](https://ivansalazar.dev)
 - 📄 [Blog](https://ivansalazar.dev/blog)
-- ✉️ [eMail](mailto:me@ivansalazar.dev)
+- ✉️ [eMail](mailto:hi@ivansalazar.dev)
 
 <div align="center">
     <a href="https://twitter.com/ivangsm_"><img alt="Arduino" src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=Twitter&logoColor=white"></a>
