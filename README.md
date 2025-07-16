@@ -66,19 +66,16 @@
 
 <p align="center">
   <a href="https://ivansalazar.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=astro&logoColor=white" alt="Website">
   </a>
   <a href="https://ivansalazar.dev/blog" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
   </a>
   <a href="mailto:hi@ivansalazar.dev">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://twitter.com/ivangsm_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   <a href="https://www.linkedin.com/in/ivangsm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
 
